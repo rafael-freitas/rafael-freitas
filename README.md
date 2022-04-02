@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rafael-freitas
+- 👀 I’m interested in JS large application archictetures
+- 📫 How to reach me @rafael.freitasl
